@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Who is the protagonist of the Mahabharata?",
+    "options": ["Ram", "Krishna", "Arjun", "Yudhishthir"],
+    "correctAnswer": "Arjun",
+    "epic": "Mahabharata",
+    "image": "/images/m.jpg"
+  },
+  {
+    "question": "Who is the Father of Lord Krishna?",
+    "options": ["Vasudeva", "Narada", "Vishnu", "Babruvahana"],
+    "correctAnswer": "Vasudeva",
+    "epic": "Mahabharata",
+    "image": "/images/m.jpg"
+  },
+  {
+    "question": "What is the name of the conch shell of Sahadeva?",
+    "options": ["Devdatta", "Panchajanya", "Saubhadra", "Manipushpaka"],
+    "correctAnswer": "Manipushpaka",
+    "epic": "Mahabharata",
+    "image": "/images/m.jpg"
+  },
+  {
+    "question": "What is the name of the bow of Krishna?",
+    "options": ["Gandiva", "Pinaka", "Sharanga", "Maricha"],
+    "correctAnswer": "Sharanga",
+    "epic": "Mahabharata",
+    "image": "/images/m.jpg"
+  },
+  {
+    "question": "Who is the son of Chitrangada and Arjuna?",
+    "options": ["Babruvahana", "Abhimanyu", "Kesi"],
+    "correctAnswer": "Babruvahana",
+    "epic": "Mahabharata",
+    "image": "/images/m.jpg"
+  },
+  {
+    "question": "Who is the main protagonist of the Ramayana?",
+    "options": ["Rama", "Lakshmana", "Hanuman", "Bharata"],
+    "correctAnswer": "Rama",
+    "epic": "Ramayana",
+    "image": "/images/r.jpg"
+  },
+  {
+    "question": "What is the name of Rama's wife?",
+    "options": ["Sita", "Tara", "Mandodari", "Kaikeyi"],
+    "correctAnswer": "Sita",
+    "epic": "Ramayana",
+    "image": "/images/r.jpg"
+  },
+  {
+    "question": "Who is the demon king that abducted Sita?",
+    "options": ["Ravana", "Kumbhakarna", "Vibhishana", "Maricha"],
+    "correctAnswer": "Ravana",
+    "epic": "Ramayana",
+    "image": "/images/r.jpg"
+  },
+  {
+    "question": "What is the name of the forest where Rama spent his exile?",
+    "options": ["Dandaka", "Kandara", "Nandana", "Kamyaka"],
+    "correctAnswer": "Dandaka",
+    "epic": "Ramayana",
+    "image": "/images/r.jpg"
+  },
+  {
+    "question": "Who helped Rama to build a bridge to Lanka?",
+    "options": ["Hanuman", "Vibhishana", "Nala and Neela", "Lakshmana"],
+    "correctAnswer": "Nala and Neela",
+    "epic": "Ramayana",
+    "image": "/images/r.jpg"
+  }
+]
